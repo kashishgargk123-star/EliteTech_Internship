@@ -1,4 +1,4 @@
-# RISC-V / VLSI Internship — ELiteTEch Intern
+#  VLSI Internship — ELiteTEch Intern
 
 Repository for the 4 internship tasks: ALU design, RAM design, a
 4-stage pipelined processor, and a digital FIR filter. Each task is
