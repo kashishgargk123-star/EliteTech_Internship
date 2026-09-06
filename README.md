@@ -97,6 +97,6 @@ Program purpose: hands-on learning in digital design fundamentals
 
 
 ## Author 
-Kashish
-BTECH- Electronics and VLSI engineering
-INTERN- EliteTech Intern
+-Kashish
+-BTECH- Electronics and VLSI engineering
+-INTERN- EliteTech Intern
