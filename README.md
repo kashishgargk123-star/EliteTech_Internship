@@ -94,3 +94,9 @@ Internship: **ELiteTEch Intern — VLSI Internship Program**
 ("Learn — Innovate — Thrive")
 Program purpose: hands-on learning in digital design fundamentals
 (ALU, memory, pipelining, and signal processing) using Verilog/VHDL.
+
+
+## Author 
+Kashish
+BTECH- Electronics and VLSI engineering
+INTERN- EliteTech Intern
